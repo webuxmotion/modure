@@ -132,12 +132,19 @@ ul {
   padding: 20px;
   box-sizing: border-box;
 }
+@media screen and (max-width: 900px) {
+  .works__list {
+    width: 100%;
+  }
+  .works__item {
+    width: 100%;
+  }
+}
 
 .card {
-  width: 500px;
   border-radius: 16px;
   overflow: hidden;
-  max-width: 100%;
+  width: 100%;
 }
 .card__link {
   display: block;
