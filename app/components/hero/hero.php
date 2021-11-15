@@ -4,6 +4,6 @@
   </video>
   <div class="video-text">
     <h1>MODURE</h1>
-    <h2>3D Modeling Boutique</h2>
+    <h2>3D Modeling Bureau</h2>
   </div>
 </div>

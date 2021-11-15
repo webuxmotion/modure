@@ -1,5 +1,5 @@
 <div class="works">
-  <h2 class="works__title">Our works</h2>
+  <h2 class="works__title">Portfolio</h2>
   <div class="works__list">
     <div class="works__item">
     <?=$this->component('card', [
