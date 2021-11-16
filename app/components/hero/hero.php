@@ -1,4 +1,4 @@
-<div class="video-container">
+<div class="hero video-container">
   <video autoplay muted loop>
     <source src="/video.mp4" type="video/mp4">
   </video>

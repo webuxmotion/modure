@@ -1,4 +1,5 @@
 <div class="about" style="background-image: url('/about.png')">
+  <?=$this->component('block-anchor', ['id' => 'about'])?>
   <div class="about__content">
     <h2 class="about__title">We do everything related to 3D</h2>
     <p class="about__description">Recently started as a company, so you have a unique opportunity to communicate directly with the founders</p>

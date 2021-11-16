@@ -5,4 +5,27 @@
   top: 0;
   left: 0;
   padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+
+  &__nav-list {
+    list-style: none;
+    display: flex;
+  }
+
+  &__nav-item {
+    margin: 0 10px;
+
+    a {
+      color: white;
+      text-transform: uppercase;
+      text-decoration: none;
+
+      &:hover {
+        opacity: 0.8;
+      }
+    }
+  }
 }

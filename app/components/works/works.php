@@ -1,4 +1,5 @@
 <div class="works">
+  <?=$this->component('block-anchor', ['id' => 'portfolio'])?>
   <h2 class="works__title">Portfolio</h2>
   <div class="works__list">
     <div class="works__item">
