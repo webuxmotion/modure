@@ -12,4 +12,6 @@
     <span class="contacts__phone"><a href="tel:+380631797271">+38(063)179-72-71</a></span>
     <span class="contacts__email">cgi.bondariev@gmail.com</span>
   </div>
+
+  <?=$this->component('contact-form')?>
 </div>
