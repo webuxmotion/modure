@@ -359,3 +359,23 @@ ul {
 .block-anchor {
   transform: translateY(-124px);
 }
+
+.contact-form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+  padding-bottom: 60px;
+}
+.contact-form__input-group {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+}
+.contact-form__input {
+  padding: 5px;
+}
+.contact-form__textarea {
+  padding: 5px;
+}
